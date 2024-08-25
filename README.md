@@ -3,8 +3,9 @@
 Snapchat Private Story Viewer. View Someone's Private Snapchat Snap &amp; Stories Anonymous Online 24 August 2024
 
 **Last Update On:**
-- `24 August 2024, 05:09 PM `
+- `26 August 2024, 02:15 AM `
 
 **Old version:**
+- `24 August 2024, 05:09 PM `
 - `23 August 2024, 10:01 PM `
 - `22 August 2024, 07:40 PM `
